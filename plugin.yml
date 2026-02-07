@@ -1,0 +1,7 @@
+name: wSticks
+api: 5.0.0
+author: xxWanoTofu
+description: Plugins sticks à effets
+main: wSticks\Main
+src-namespace-prefix: wSticks
+version: 1.0.0-RELEASE
